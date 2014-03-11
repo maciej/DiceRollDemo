@@ -1,0 +1,10 @@
+
+site :opscode
+
+# Berkshelf 3 seems to be broken
+# source 'http://api.berkshelf.com'
+
+cookbook 'htop'
+cookbook 'vim'
+
+cookbook 'graphite', github: 'hw-cookbooks/graphite'

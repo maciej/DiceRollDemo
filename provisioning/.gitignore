@@ -1,0 +1,4 @@
+.bundle
+.chef
+.vagrant
+bundler_stubs

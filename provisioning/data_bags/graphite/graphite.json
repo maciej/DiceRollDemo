@@ -1,0 +1,9 @@
+{
+  "id": "graphite",
+  "web_password": {
+    "encrypted_data": "8NC7j0coXSeoZ+66/DhLTU0E4nqV+3EveHpKRJrHsZs=\n",
+    "iv": "ged0VfN0yg7358C63/vHcw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
